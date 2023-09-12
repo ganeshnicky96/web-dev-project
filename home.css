@@ -1,0 +1,92 @@
+.bg-color{
+    background-color: #C63D2F;
+    opacity: 90%;
+}
+.nav-link{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.middle{
+   justify-content: center;
+}
+.imgblack{                                              /*carousal black*/
+    opacity: 70%;
+    background-color: #000;
+}
+.imgshadow{                                             /*image shadow*/
+    box-shadow: 7px 7px 7px #aaa;
+    border-radius: 9px;
+}
+.headtext{
+    font-size: 45px;                                    /*Visit page*/
+}
+.description{                                           /*video description font size*/
+    font-size: 18px;
+}
+.desc{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.entryfeetxt{                                            /*all font size*/
+    font-size: 20px;
+}
+.videodes{                                               /*about us video description*/
+    font-size: 18px;
+    margin: 6px;
+    padding: 5px;
+}
+.imgborder{
+    border: 7px solid #FFC436;
+}
+.card{                                                     /*cards box shadows*/
+    box-shadow: 5px 5px 5px #aaa;
+}
+.anchortext{                                               /*anchor texts*/
+    text-align: center;
+    font-size: 15px;
+    color: #C63D2F;
+    font-weight: 500;
+}
+.imgborder2{                                                /*gallery image borders*/
+    border: 7px solid #FFC436;
+}
+.titletxt{                                                  /*gallery title text*/
+    color: #9A3B3B;
+}
+.endfooter{                                                 /*footer background*/
+    background-color: #352F44;
+}
+.footertxt{                                                 /*footertext*/
+    font-size: 20px;
+    color: #fff;
+    padding: 6px;
+}
+.footerlogo{                                                /*footerlogo*/
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.iconclicks{                                                /*socialmedia logos*/
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+   margin-top: 20px;
+}
+.fa-facebook, .fa-instagram, .fa-youtube,.fa-linkedin{      /*social media logos*/
+    padding-left: 10px;
+}
+.copyrighttxt{                                              /*copyrighttext*/
+    font-size: 15px;
+    opacity: 50%;
+}
+.feedbackfrm{                                               /*feedbackform*/
+    margin-top: 250px;
+    margin-left: 250px;
+    background-color: #F0F0F0;
+    width: 550px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px #aaa;
+}
